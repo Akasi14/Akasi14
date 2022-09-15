@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akasi14
+- 👋 Hi, I’m @Abigail Akasi
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on other projects
