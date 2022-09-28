@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abigail Akasi
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Software Engineering at ALX
 - 💞️ I’m looking to collaborate on other projects
 - 📫 How to reach me LinkedIn Akasi14
 
